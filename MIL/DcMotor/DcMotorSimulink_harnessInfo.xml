@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HarnessInformation>
+  <Harness>
+    <P Name="Name">MOT_CTRL_MOT_FUN_001</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">tecnicomcbti</P>
+    <P Name="CreatedOn">Tue Sep 30 13:07:30 2025</P>
+    <P Name="ModifiedBy">tecnicomcbti</P>
+    <P Name="LastSaved">Tue Sep 30 13:07:38 2025</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="Directory"/>
+    <P Name="FileName">MOT_CTRL_MOT_FUN_001.slx</P>
+    <P Name="SavedVersion">25.1</P>
+    <P Name="HarnessUUID">da048b49-c81e-4529-ba3d-36d00c937dbe</P>
+    <P Name="HarnessConnectionsMap">0|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">MOT_CTRL_MOT_FUN_002</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">tecnicomcbti</P>
+    <P Name="CreatedOn">Tue Sep 30 13:08:44 2025</P>
+    <P Name="ModifiedBy">tecnicomcbti</P>
+    <P Name="LastSaved">Tue Sep 30 13:08:44 2025</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="Directory"/>
+    <P Name="FileName">MOT_CTRL_MOT_FUN_002.slx</P>
+    <P Name="SavedVersion">25.1</P>
+    <P Name="HarnessUUID">1508314d-97d1-4607-af12-87667ff5fdb7</P>
+    <P Name="HarnessConnectionsMap">0|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
+  </Harness>
+  <Harness>
+    <P Name="Name">MOT_CTRL_MOT_FUN_003</P>
+    <P Name="Description"/>
+    <P Name="CreatedBy">tecnicomcbti</P>
+    <P Name="CreatedOn">Tue Sep 30 13:09:29 2025</P>
+    <P Name="ModifiedBy">tecnicomcbti</P>
+    <P Name="LastSaved">Tue Sep 30 13:09:29 2025</P>
+    <P Name="Owner">bd</P>
+    <P Name="OwnerType">BD_HARNESS</P>
+    <P Name="OwnerPath">.</P>
+    <P Name="Directory"/>
+    <P Name="FileName">MOT_CTRL_MOT_FUN_003.slx</P>
+    <P Name="SavedVersion">25.1</P>
+    <P Name="HarnessUUID">04fe80ed-0dd7-434c-b96e-39eb3690b0b2</P>
+    <P Name="HarnessConnectionsMap">0|0,1|0,0,0,0||</P>
+    <P Name="VerificationMode">0</P>
+    <P Name="HarnessOwnerCheckSum">0,0,0,0</P>
+    <P Name="RebuildOnOpen">false</P>
+    <P Name="RebuildModelData">false</P>
+    <P Name="Graphical">false</P>
+    <P Name="DriveFcnCallWithTS">true</P>
+    <P Name="ScheduleInitTermReset">false</P>
+    <P Name="AutoShapeInputs">false</P>
+    <P Name="SLDVCompatible">no</P>
+    <P Name="SynchronizationMode">1</P>
+    <P Name="IsImported">false</P>
+    <P Name="PostRebuildCB"/>
+    <P Name="IsCodeContext">false</P>
+    <P Name="SchedulerBlock">0</P>
+    <P Name="SourceTypeString">Inport</P>
+    <P Name="SinkTypeString">Outport</P>
+    <P Name="CustomSourcePath"/>
+    <P Name="CustomSinkPath"/>
+    <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
+    <P Name="OpenGraphs"/>
+    <P Name="ExistingBuildFolder"/>
+    <P Name="FunctionInterfaceName"/>
+    <P Name="SysArchSUTModel"/>
+  </Harness>
+  <ModelMetadata>
+    <P Name="ModelUUID">e95edf57-a3e3-4cb8-93fb-2133830e6234</P>
+    <P Name="OwnerBDName">DcMotorSimulink</P>
+  </ModelMetadata>
+</HarnessInformation>
