@@ -73,7 +73,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">2|12|0|0|0|0|0</P>
-    <P Name="OpenGraphs"/>
+    <P Name="OpenGraphs">||MOT_CTRL_PTH_FUN_001_2</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
