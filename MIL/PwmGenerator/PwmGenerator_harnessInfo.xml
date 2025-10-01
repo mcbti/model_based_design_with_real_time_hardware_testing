@@ -34,7 +34,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
-    <P Name="OpenGraphs">||MOT_CTRL_PWM_FUN_001</P>
+    <P Name="OpenGraphs"/>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
@@ -73,7 +73,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
-    <P Name="OpenGraphs">||MOT_CTRL_PWM_FUN_002</P>
+    <P Name="OpenGraphs"/>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
@@ -84,7 +84,7 @@
     <P Name="CreatedBy">tecnicomcbti</P>
     <P Name="CreatedOn">Tue Sep 30 08:13:36 2025</P>
     <P Name="ModifiedBy">tecnicomcbti</P>
-    <P Name="LastSaved">Tue Sep 30 08:16:59 2025</P>
+    <P Name="LastSaved">Tue Sep 30 23:38:36 2025</P>
     <P Name="Owner">bd</P>
     <P Name="OwnerType">BD_HARNESS</P>
     <P Name="OwnerPath">.</P>
@@ -112,7 +112,7 @@
     <P Name="CustomSourcePath"/>
     <P Name="CustomSinkPath"/>
     <P Name="BlockSIDs">2|8|0|0|0|0|0</P>
-    <P Name="OpenGraphs"/>
+    <P Name="OpenGraphs">||MOT_CTRL_PWM_FUN_003</P>
     <P Name="ExistingBuildFolder"/>
     <P Name="FunctionInterfaceName"/>
     <P Name="SysArchSUTModel"/>
